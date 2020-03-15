@@ -7,7 +7,7 @@ class Solution:
         """
             https://leetcode.com/problems/task-scheduler/
             Time Complexity - O(n)
-            Space Complexity - O(n)
+            Space Complexity - O(1)
             'n' is the number of tasks.
         """
         if not tasks:
